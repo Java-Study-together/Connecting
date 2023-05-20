@@ -1,3 +1,4 @@
+package memo;
 
 import java.awt.FileDialog;
 import java.awt.event.ActionEvent;

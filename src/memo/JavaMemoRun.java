@@ -1,3 +1,7 @@
+package memo;
+
+import mainstudy.*;
+
 
 public class JavaMemoRun {
 

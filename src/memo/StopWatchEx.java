@@ -1,3 +1,4 @@
+package memo;
 import java.awt.FlowLayout;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
